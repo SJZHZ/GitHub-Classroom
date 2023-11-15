@@ -4,3 +4,6 @@
 [submodule "series-intro-to-github-flow-SJZHZ"]
 	path = series-intro-to-github-flow-SJZHZ
 	url = https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-SJZHZ
+[submodule "series-communicate-using-markdown-SJZHZ"]
+	path = series-communicate-using-markdown-SJZHZ
+	url = https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-SJZHZ
